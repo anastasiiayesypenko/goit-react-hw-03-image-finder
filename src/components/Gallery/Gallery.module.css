@@ -1,0 +1,9 @@
+/* Стили компонента Gallery */
+.gallery {
+  display: flex;
+  max-width: 1440px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+}
