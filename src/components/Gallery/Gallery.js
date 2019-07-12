@@ -7,7 +7,7 @@ const Gallery = ({ imgList }) => (
   <ul className={styles.gallery}>
     {imgList.map(imgObj => (
       <GalleryItem key={imgObj.id} imgObj={imgObj} />
-    ))}{' '}
+    ))}
   </ul>
 );
 Gallery.propTypes = {

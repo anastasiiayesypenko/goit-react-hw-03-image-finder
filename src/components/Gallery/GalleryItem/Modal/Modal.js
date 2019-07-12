@@ -16,8 +16,9 @@ class Modal extends Component {
   };
 
   closeModalifEscape = e => {
+    const { closeModal } = this.props;
     if (e.keyCode === 27) {
-      this.handleModalClose();
+      closeModal();
     }
   };
 

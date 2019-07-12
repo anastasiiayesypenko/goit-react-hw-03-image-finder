@@ -45,5 +45,5 @@
     "lint-staged": "^8.2.1",
     "prettier": "^1.18.2"
   },
-  "homepage": "https: //anastasiiayesypenko.github.io/goit-react-hw-03-image-finder/"
+  "homepage": "https://anastasiiayesypenko.github.io/goit-react-hw-03-image-finder"
 }
